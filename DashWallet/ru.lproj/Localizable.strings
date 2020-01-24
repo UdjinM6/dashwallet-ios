@@ -111,7 +111,7 @@
 "Buy & Sell Dash" = "Купить и продать Dash";
 
 /* Translate it as short as possible! (24 symbols max) */
-"Buy / Sell Dash" = "Купить/Продать Dash";
+"Buy / Sell Dash" = "Купить / Продать";
 
 /* No comment provided by engineer. */
 "Buy Dash" = "Купить Dash";
@@ -306,7 +306,7 @@
 "Immediately" = "Немедленно";
 
 /* Translate it as short as possible! (24 symbols max) */
-"Import Private Key" = "Импортировать приватный ключ";
+"Import Private Key" = "Импорт ключа";
 
 /* No comment provided by engineer. */
 "Import private key…" = "Импортировать приватный ключ…";
@@ -411,7 +411,7 @@
 "NFC device didn't transmit a valid Dash address" = "NFC-устройство не предоставило Dash адрес";
 
 /* No comment provided by engineer. */
-"No address copied" = "Адрес не скопирован";
+"No address copied" = "Нет адреса";
 
 /* No comment provided by engineer. */
 "Node IP" = "IP узла";
@@ -573,13 +573,13 @@
 "Scan this to Pay" = "Отсканируйте для оплаты";
 
 /* Translate it as short as possible! (24 symbols max) */
-"Scan to Pay" = "Сканировать";
+"Scan to Pay" = "Оплатить по QR-коду";
 
 /* No comment provided by engineer. */
 "Scan to Send" = "Сканировать";
 
 /* (Send by) Scanning QR code */
-"Scanning QR code" = "Сканирование QR-кода";
+"Scanning QR code" = "QR-коду";
 
 /* No comment provided by engineer. */
 "Screenshot detected. New recovery phrase:" = "Произошел снимок экрана. НОВАЯ фраза восстановления:";
@@ -591,7 +591,7 @@
 "Secure now" = "Сохранить кошелек";
 
 /* Translate it as short as possible! (24 symbols max) */
-"Secure Wallet Now" = "Сохраните кошелек сейчас";
+"Secure Wallet Now" = "Сохраните кошелек";
 
 /* No comment provided by engineer. */
 "Security" = "Безопасность";
@@ -609,7 +609,7 @@
 "Send %@ (%@) from this private key into your wallet? The Dash network will receive a fee of %@ (%@)." = "Отправить %1$@ (%2$@) с этого приватного ключа в ваш кошелёк? Сеть Dash получит комиссию %3$@ (%4$@).";
 
 /* Send by (scanning QR code) */
-"Send by" = "Отправить через";
+"Send by" = "Оплатить по";
 
 /* An action */
 "Send crash report" = "Отправить отчёт об ошибке";
